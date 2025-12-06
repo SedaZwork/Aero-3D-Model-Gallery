@@ -1,0 +1,7 @@
+{
+  "name": "Aero 3D Model Gallery",
+  "description": "An interactive 3D model gallery with an 'Aero' glassmorphism UI, built with React, Three.js, and Tailwind CSS. Users can select different models and control their rotation, scale, and the scene's background color.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
